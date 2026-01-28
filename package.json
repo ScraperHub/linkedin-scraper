@@ -1,0 +1,42 @@
+{
+  "name": "linkedin-scraper",
+  "version": "1.0.0",
+  "description": "Fastest & Most Reliable LinkedIn Scraper API - Extract profiles, companies, and job data",
+  "main": "examples/linkedin-scraper.js",
+  "scripts": {
+    "start": "node examples/linkedin-scraper.js",
+    "scrape:profile": "node examples/scrape-profile.js",
+    "scrape:company": "node examples/scrape-company.js",
+    "scrape:search": "node examples/scrape-search.js",
+    "scrape:jobs": "node examples/scrape-jobs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/linkedin-scraper.git"
+  },
+  "keywords": [
+    "linkedin",
+    "scraper",
+    "web-scraping",
+    "data-extraction",
+    "crawlbase",
+    "lead-generation",
+    "recruitment",
+    "sales-intelligence",
+    "api"
+  ],
+  "author": "Crawlbase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/linkedin-scraper/issues"
+  },
+  "homepage": "https://github.com/yourusername/linkedin-scraper#readme",
+  "dependencies": {
+    "crawlbase": "^2.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
