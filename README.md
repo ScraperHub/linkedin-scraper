@@ -4,6 +4,7 @@
        style="max-width: 100%; border: 0;">
 </a>
 
+
 # LinkedIn Scraper: Fastest & Most Reliable LinkedIn Scraper API
 
 Extract valuable data from LinkedIn at scale. Scrape company profiles, people profiles, job posts, and more with Crawlbase's powerful LinkedIn scraping API that bypasses restrictions.
