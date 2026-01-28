@@ -1,3 +1,5 @@
+
+
 # LinkedIn Scraper: Fastest & Most Reliable LinkedIn Scraper API
 
 Extract valuable data from LinkedIn at scale. Scrape company profiles, people profiles, job posts, and more with Crawlbase's powerful LinkedIn scraping API that bypasses restrictions.
@@ -58,7 +60,7 @@ Search and extract data from multiple profiles:
 
 ## 💻 Easy-to-Use API for LinkedIn Companies and Profiles
 
-Scrape LinkedIn profile pages to analyze Brands or their Crawling API and Crawling API is delivered by Crawlbase's infrastructure.
+Scrape LinkedIn profile pages to analyze Brands or their Crawling API, and Crawling API is delivered by Crawlbase's infrastructure.
 
 We provide you with an easy way to scale your business by using our API - no extra code needed, you can simply build an API endpoint and create the business logic right away.
 
@@ -111,8 +113,6 @@ Our scraping infrastructure works across the web, including:
 - Yelp
 - Etsy
 - Quora
-
-[Load More...](https://crawlbase.com/docs/supported-websites)
 
 ## 🎯 Why Choose Crawlbase LinkedIn Scraper?
 
@@ -174,7 +174,7 @@ Trusted by leading companies worldwide:
 ## 🚦 Getting Started
 
 ### 1. Sign Up
-Create a free account at [crawlbase.com](https://crawlbase.com)
+Create a free account at [crawlbase.com](https://crawlbase.com/signup?signup=blog&utm_source=github)
 
 ### 2. Get API Token
 Access your API token from the dashboard
@@ -326,8 +326,7 @@ Flexible plans for businesses of all sizes:
 - [Full API Documentation](https://crawlbase.com/docs)
 - [LinkedIn Scraper Guide](https://crawlbase.com/docs/linkedin-scraper)
 - [Code Examples](https://crawlbase.com/docs/examples)
-- [Video Tutorials](https://crawlbase.com/tutorials)
-- [Best Practices](https://crawlbase.com/docs/best-practices)
+- [Video Tutorials](https://www.youtube.com/@CrawlbaseChannel)
 
 ## 🤝 Support
 
@@ -335,7 +334,6 @@ Flexible plans for businesses of all sizes:
 - **Live Chat**: Available on our website
 - **Documentation**: [docs.crawlbase.com](https://docs.crawlbase.com)
 - **Status Page**: [status.crawlbase.com](https://status.crawlbase.com)
-- **Community**: [community.crawlbase.com](https://community.crawlbase.com)
 
 ## 💡 Integration Examples
 
@@ -378,9 +376,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Website](https://crawlbase.com)
 - [LinkedIn Scraper Page](https://crawlbase.com/linkedin-scraper)
 - [Blog](https://crawlbase.com/blog)
-- [API Status](https://status.crawlbase.com)
-- [Twitter](https://twitter.com/crawlbase)
-- [LinkedIn](https://linkedin.com/company/crawlbase)
 
 ---
 
