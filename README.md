@@ -1,6 +1,6 @@
 <a href="https://crawlbase.com/signup?utm_source=github&utm_medium=readme&utm_campaign=linkedin_scraper" target="_blank">
-  <img src="https://github.com/user-attachments/assets/afa4f6e7-25fb-442c-af2f-b4ddcfd62ab2" 
-       alt="Scrape LinkedIn Without Getting Blocked" 
+  <img src="assets/linkedin-banner.png" 
+       alt="Scrape LinkedIn Without Getting Blocked - AI-powered rendering + anti-bot protection" 
        style="max-width: 100%; border: 0;">
 </a>
 
