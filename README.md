@@ -193,27 +193,6 @@ Use our simple API to start extracting LinkedIn data
 curl "https://api.crawlbase.com/?token=YOUR_TOKEN&url=https://www.linkedin.com/in/username&scraper=linkedin-profile-scraper"
 ```
 
-## 📊 API Reference
-
-### Endpoints
-
-| Endpoint | Description |
-|----------|-------------|
-| `/scrape` | Scrape a single LinkedIn URL |
-| `/batch` | Batch scraping for multiple URLs |
-| `/search` | Search LinkedIn profiles |
-| `/company` | Scrape company pages |
-
-### Parameters
-
-| Parameter | Type | Required | Description |
-|-----------|------|----------|-------------|
-| `token` | string | Yes | Your API token |
-| `url` | string | Yes | LinkedIn URL to scrape |
-| `scraper` | string | Yes | Scraper type |
-| `format` | string | No | Output format (json, csv, excel) |
-| `country` | string | No | LinkedIn country domain |
-
 ### Scraper Types
 
 - `linkedin-profile-scraper` - Individual profiles
@@ -320,51 +299,12 @@ Use our recommended best practices: rate limiting, diverse query patterns, and p
 
 Visit [crawlbase.com/pricing](https://crawlbase.com/pricing) for current pricing plans.
 
-Flexible plans for businesses of all sizes:
-- **Free Tier** - Try the API with limited credits
-- **Starter** - For small projects and testing
-- **Professional** - For growing businesses
-- **Enterprise** - Custom solutions for large-scale operations
-
-## 📚 Documentation
-
-- [Full API Documentation](https://crawlbase.com/docs)
-- [LinkedIn Scraper Guide](https://crawlbase.com/docs/linkedin-scraper)
-- [Code Examples](https://crawlbase.com/docs/examples)
-- [Video Tutorials](https://www.youtube.com/@CrawlbaseChannel)
-
 ## 🤝 Support
 
 - **Email**: support@crawlbase.com
 - **Live Chat**: Available on our website
 - **Documentation**: [docs.crawlbase.com](https://docs.crawlbase.com)
 - **Status Page**: [status.crawlbase.com](https://status.crawlbase.com)
-
-## 💡 Integration Examples
-
-### Node.js
-```javascript
-const { CrawlingAPI } = require('crawlbase');
-const api = new CrawlingAPI({ token: 'YOUR_TOKEN' });
-```
-
-### Python
-```python
-from crawlbase import CrawlingAPI
-api = CrawlingAPI({'token': 'YOUR_TOKEN'})
-```
-
-### PHP
-```php
-use Crawlbase\API as CrawlingAPI;
-$api = new CrawlingAPI(['token' => 'YOUR_TOKEN']);
-```
-
-### Ruby
-```ruby
-require 'crawlbase'
-api = Crawlbase::API.new(token: 'YOUR_TOKEN')
-```
 
 ## 📄 License
 
