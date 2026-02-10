@@ -56,14 +56,12 @@ Gather detailed data from company pages:
 - Job openings
 
 #### 3. LinkedIn Feeds Scraper
-Search and extract data from multiple profiles:
+Search and extract data from feeds:
 - Search by keywords, location, industry
 - Filter by company, job title, connections
 - Batch profile extraction
 - Export to JSON, or HTML
 - Advanced search operators
-
-Sign up on our API tool with Crawlbase to obtain your API request and create the business logic.
 
 ### API Code Example
 
