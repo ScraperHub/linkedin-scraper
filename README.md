@@ -63,12 +63,6 @@ Search and extract data from multiple profiles:
 - Export to JSON, or HTML
 - Advanced search operators
 
-## 💻 Easy-to-Use API for LinkedIn Companies and Profiles
-
-Scrape LinkedIn profile pages to analyze Brands or their Crawling API, and Crawling API is delivered by Crawlbase's infrastructure.
-
-We provide you with an easy way to scale your business by using our API - no extra code needed, you can simply build an API endpoint and create the business logic right away.
-
 Sign up on our API tool with Crawlbase to obtain your API request and create the business logic.
 
 ### API Code Example
@@ -92,32 +86,6 @@ api.get('https://www.linkedin.com/in/username', {
 ```
 
 ## 🌐 Crawlbase Supports Over 1 Million Websites
-
-Our scraping infrastructure works across the web, including:
-
-### Social Media
-- Google
-- Amazon  
-- LinkedIn
-- Twitter
-- Reddit
-- Facebook
-
-### E-commerce & Marketplaces
-- Shopee
-- ProductHunt
-- Walmart
-- eBay
-- Mercado Libre
-- Zillow
-
-### Business & Professional
-- Trustpilot
-- Glassdoor
-- Airbnb
-- Yelp
-- Etsy
-- Quora
 
 ## 🎯 Why Choose Crawlbase LinkedIn Scraper?
 
@@ -195,10 +163,10 @@ curl "https://api.crawlbase.com/?token=YOUR_TOKEN&url=https://www.linkedin.com/i
 
 ### Scraper Types
 
-- `linkedin-profile-scraper` - Individual profiles
-- `linkedin-company-scraper` - Company pages
-- `linkedin-search-scraper` - Search results
-- `linkedin-jobs-scraper` - Job postings
+- `linkedin-profile` - Individual profiles
+- `linkedin-company` - Company pages
+- `linkedin-feed` - Search results
+
 
 ### Response Format
 
@@ -218,43 +186,6 @@ curl "https://api.crawlbase.com/?token=YOUR_TOKEN&url=https://www.linkedin.com/i
     }
   }
 }
-```
-
-## 🔧 Advanced Features
-
-### Batch Processing
-Scrape multiple profiles efficiently:
-```javascript
-const profiles = [
-  'https://www.linkedin.com/in/profile1',
-  'https://www.linkedin.com/in/profile2',
-  'https://www.linkedin.com/in/profile3'
-];
-
-const results = await api.batchScrape(profiles);
-```
-
-### Search Functionality
-Find profiles matching criteria:
-```javascript
-const searchResults = await api.search({
-  keywords: 'software engineer',
-  location: 'San Francisco',
-  company: 'Google'
-});
-```
-
-### Data Export
-Export to multiple formats:
-```javascript
-// Export to CSV
-await api.exportToCSV(data, 'profiles.csv');
-
-// Export to Excel
-await api.exportToExcel(data, 'profiles.xlsx');
-
-// Export to JSON
-await api.exportToJSON(data, 'profiles.json');
 ```
 
 ## 📝 Frequently Asked Questions
