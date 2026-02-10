@@ -55,12 +55,12 @@ Gather detailed data from company pages:
 - Recent posts and updates
 - Job openings
 
-#### 3. LinkedIn People Scraper
+#### 3. LinkedIn Feeds Scraper
 Search and extract data from multiple profiles:
 - Search by keywords, location, industry
 - Filter by company, job title, connections
 - Batch profile extraction
-- Export to CSV, JSON, or Excel
+- Export to JSON, or HTML
 - Advanced search operators
 
 ## 💻 Easy-to-Use API for LinkedIn Companies and Profiles
